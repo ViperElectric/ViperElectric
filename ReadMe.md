@@ -1,1 +1,1 @@
-Read Me and signing test
+Software Developer. Primarily C#
